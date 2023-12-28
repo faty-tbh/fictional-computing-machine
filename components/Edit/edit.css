@@ -1,0 +1,102 @@
+
+body{
+    font-family: Arial, sans-serif;
+    height: 100%;
+    width: 100%;
+    background-color: #f4f4f4;
+    
+   
+  }
+  
+  
+ 
+  
+  .MyFormm{
+    position: absolute;
+      background-color: whitesmoke;
+      width: 600px;
+      max-height: 600px;
+      border-radius: 10px;
+      margin-top: 30px;
+      background-color: rgb(245, 245, 245);
+      box-shadow: 10px 40px 30px rgba(214, 63, 3, 0.1);
+      align-items: center;
+      left:50%;
+      margin-left: 20%;
+  
+  }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    
+    h2 {
+      text-align: center;
+      color: #555;
+      margin-bottom: 5px;
+    }
+    
+    form {
+      display: flex;
+      flex-direction: column;
+      
+    }
+    
+    
+    select,
+    button {
+      border-radius: 10px;
+      width: 70%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      outline: none;
+    }
+    input {
+      border-radius: 10px;
+      width: 67%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      outline: none;
+    }
+    select {
+      appearance: none;
+      padding: 10px;
+      font-size: 16px;
+    }
+    
+    input[type="submit"] {
+      background-image: linear-gradient(to right, #FF9800, #ef4705);
+      color: white;
+      cursor: pointer;
+    }
+    
+    input[type="submit"]:hover {
+      background-color: #4caf50;
+     
+    }
+    
+    .register {
+      text-align: center;
+      margin-top: 20px;
+      
+    }
+    
+    .register a {
+      color: #3498db;
+      text-decoration: none;
+      margin-left: 30px;
+    }
+    
+    .register a:hover {
+      text-decoration: underline;
+    }
+    
+    .bo{
+        position: absolute;
+        top:15%;
+        left: 45%;
+        width:10%;
+      
+      }

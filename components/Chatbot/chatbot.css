@@ -1,0 +1,37 @@
+.input{
+ 
+  width:65%;
+}
+.recom{
+  position: absolute;
+  top:110%;
+ 
+}
+.recommendations {
+  position: absolute;
+  top: 150%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+
+}
+
+.no{
+  color:dimgray;
+  font-size: 15px;
+}
+.btnrec{
+
+  width:50%
+}
+.title{
+  font-size: 20px;
+}
+/* .chatbot-interfacee{
+  
+  position: absolute;
+  left:40%;
+  width: 80%;
+  height: 100vh; /* Ajustez la hauteur selon vos besoins */
+
+

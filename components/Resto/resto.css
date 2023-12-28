@@ -1,0 +1,42 @@
+.res{
+position: absolute;
+  top:55%;
+  right: 20%;
+}
+.restext{
+    position: absolute;
+    top: 65%;
+    right:-12%;
+    
+}
+.res2{
+    position: absolute;
+      top:70%;
+      right: 20%;
+    }
+.restext2{
+        position: absolute;
+        top: 80%;
+        right:-12%;
+    }
+.btnres{
+    position: absolute;
+      top:90%;
+      right: 1%;
+      width:50%;
+
+}
+.recommendationsr{
+  position: absolute;
+  top:100%;
+  width:50%;
+  right:1%;
+
+}
+h4{
+  color:#4CAF50;
+}
+.chatbot-interface{
+  position: absolute;
+  top:60%;
+}
